@@ -1,0 +1,16 @@
+bot:
+  token: ""
+  admins: []
+
+db:
+  host: "localhost"
+  user: ""
+  password: ""
+  db_name: "dustliktest_db"
+
+tg_services:
+  flyerapi_token: ""
+  hi_views_token: ""
+
+other_services:
+  openai_key: ""

@@ -1,0 +1,13 @@
+bot:
+  token: "7564548098:AAHtlyjHgyq2WqkfHVr0Hdp1XxRoGqD5Rhw"
+  admins: [163482293, 273149212, 631312205, 8010907678, 516861766, 1418496070]
+
+db:
+  host: "localhost"
+  user: "renanv"
+  password: "renanv5012"
+  db_name: "topdostbot_db"
+
+tg_services:
+  flyerapi_token: ""
+  hi_views_token: ""

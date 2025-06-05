@@ -1,0 +1,14 @@
+[Unit]
+Description=@topdostbot
+After=syslog.target
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/topdostbot
+ExecStart=/home/topdostbot/venv/bin/python bot.py
+RestartSec=60
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
