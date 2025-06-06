@@ -98,7 +98,7 @@ def test_yourself(bot_username, user_id):
 
     builder.button(
         text="✉️ Havola bilan bo'lishing",
-        switch_inline_query=f't.me/{bot_username}?start=s_{user_id}'
+        switch_inline_query=f"Meni qanchalik yaxshi bilasiz?\n\nt.me/{bot_username}?start=s_{user_id}"
     )
     builder.button(
         text="🔙 Orqaga qaytish",

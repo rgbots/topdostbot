@@ -30,7 +30,7 @@ USER_HAS_TEST_CREATED = (
 )
 
 START_CREATING_TEST = (
-    "Yaxshi. Savollar ostidagi tugmalar yordamida quyidagi 15 ta savolga javob bering. "
+    "Yaxshi. Savollar ostidagi tugmalar yordamida quyidagi 10 ta savolga javob bering. "
     "Halol javob bering, aks holda do'stlaringiz to'g'ri javob bera olmaydi."
 )
 
